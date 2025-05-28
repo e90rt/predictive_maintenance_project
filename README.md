@@ -46,7 +46,7 @@ Streamlit-приложение предоставляет:
 git clone https://github.com/e90rt/predictive_maintenance_project.git
 
 # Перейти в директорию проекта
-cd predictive-maintenance
+cd predictive maintenance project
 
 # Установить зависимости
 pip install -r requirements.txt
